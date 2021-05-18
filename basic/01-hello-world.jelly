@@ -1,0 +1,4 @@
+import Shortcuts 1092.6
+#Color: red, #Icon: shortcuts
+
+sendNotification(body: "Hello world!", title: "Hello world from Jellycuts!", sound: false, attachment:)
